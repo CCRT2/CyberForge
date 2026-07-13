@@ -160,3 +160,6 @@ CyberForge is built by people who enjoy learning, building, and sharing knowledg
 
 Whether your contribution is one line of documentation or an entire tool, thank you for helping make CyberForge better.
 
+
+Whether your contribution is one line of documentation or an entire tool, thank you for helping make CyberForge better.
+
