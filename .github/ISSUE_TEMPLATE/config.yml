@@ -1,0 +1,18 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Questions & Discussions
+    url: https://github.com/CCRT2/CyberForge/discussions
+    about: Please ask questions or discuss ideas here instead of opening an issue.
+
+  - name: 📖 Documentation
+    url: https://github.com/CCRT2/CyberForge#readme
+    about: Read the documentation before creating an issue.
+
+  - name: 🛣️ Roadmap
+    url: https://github.com/CCRT2/CyberForge/blob/main/ROADMAP.md
+    about: See what features are planned before requesting one.
+
+  - name: 🔒 Report a Security Vulnerability
+    url: https://github.com/CCRT2/CyberForge/security/advisories/new
+    about: Please report security vulnerabilities privately.
