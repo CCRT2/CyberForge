@@ -1,6 +1,5 @@
 # Pull Request
 
-
 ## Summary
 
 Provide a brief summary of the changes made in this pull request.
@@ -9,21 +8,19 @@ Provide a brief summary of the changes made in this pull request.
 
 ## Type of Change
 
-Please select all that apply,
+Please select all that apply.
 
--[ ] Bug fix
--[ ] New feature
--[ ] Preformance improvement
--[ ] Security improvement
--[ ] Documention update
--[ ] Refactoring
--[ ] Dependency update
--[ ] Tests
--[ ] Other
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Performance improvement
+- [ ] Security improvement
+- [ ] Documentation update
+- [ ] Refactoring
+- [ ] Dependency update
+- [ ] Tests
+- [ ] Other
 
-
---- 
-
+---
 
 ## Related Issues
 
@@ -33,15 +30,15 @@ or
 
 Related to #
 
-
 ---
 
+## Changes Made
 
 Describe the major changes included in this pull request.
 
--
--
--
+- 
+- 
+- 
 
 ---
 
@@ -49,12 +46,12 @@ Describe the major changes included in this pull request.
 
 Describe how you tested your changes.
 
--[ ] Unit tests
--[ ] Manual testing
--[ ] Integration testing
--[ ] No testing required
+- [ ] Unit tests
+- [ ] Manual testing
+- [ ] Integration testing
+- [ ] No testing required
 
-Aditional testing notes:
+Additional testing notes:
 
 ---
 
@@ -62,10 +59,10 @@ Aditional testing notes:
 
 Does this pull request introduce any breaking changes?
 
--[ ] Yes
--[ ] No
+- [ ] Yes
+- [ ] No
 
-If yes, please explain
+If yes, please explain.
 
 ---
 
@@ -83,5 +80,3 @@ If your changes affect the user interface or documentation, include screenshots 
 - [ ] I have added or updated tests (if applicable).
 - [ ] My changes do not introduce known security vulnerabilities.
 - [ ] I have reviewed my own code before submitting.
-
-
