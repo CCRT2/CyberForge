@@ -29,3 +29,7 @@ Whether you're a beginner learning Linux or an experienced security engineer bui
 🚀 Open Source
 
 ⭐ Community Driven
+
+--
+
+*If you have any questions please revert to .github/ISSUE_TEMPLATE/questions.md. There you will find contact files.*
